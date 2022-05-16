@@ -2,7 +2,6 @@
 // Main.c
 // Practica4
 //
-//
 /*
 Luis Antonio Blanco conde
 Gustavo Contreras Mejia
